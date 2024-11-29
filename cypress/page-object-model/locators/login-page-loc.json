@@ -1,0 +1,8 @@
+{
+    "usernameInp": "#username",
+    "passInp": "#password",
+    "signBtn": "#signInBtn",
+    "alert": ".alert.alert-danger",
+    "shopTxt": "div.col-lg-3 > .my-4",
+    "checkOut": ".nav-link.btn"
+}
